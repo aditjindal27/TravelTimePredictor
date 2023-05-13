@@ -68,4 +68,9 @@ Serving HTTP on :: port 8000 (http://[::]:8000/) ...
 ```
 
 ### View the Web Application
-Open your browser and navigate to `http://localhost:8000/` to view the web application.
+Open your browser and navigate to `http://localhost:8000/` to view the web application. Example of final front-end:
+
+ <img width="724" alt="Screenshot 2023-04-20 at 11 18 47 AM" src="https://github.com/aditjindal27/TravelTimePredictor/assets/54547947/2b7961a6-39c5-4b1a-9d37-61b8e1184b81">
+
+
+
