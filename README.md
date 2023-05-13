@@ -1,12 +1,6 @@
 # Uncovering the Best Mode of Transport: Travel Time analysis
 _Adit Jindal, Ha Dang, Hassan Naveed, Sasan Zohreh_
 
-_CSE 6242 Data and Visual Analytics, Georgia Tech_
-
-_Spring 2023_
-
-_Dr. Duen Horng (Polo) Chau_
-
 ## Description
 This project aims to uncover the best mode of transport for a given trip. We will be using the NYC Taxi and Limousine Commission (TLC) dataset to analyze the travel time of ride-sharing vehicles vs. yellow taxis. We will be using the Citi Bike NYC to analyze bike travel time.
 
